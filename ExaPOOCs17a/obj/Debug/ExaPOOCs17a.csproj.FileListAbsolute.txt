@@ -1,0 +1,2 @@
+C:\Users\ofries\Desktop\ExaPOO17a\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.exe.config
+C:\Users\ofries\Desktop\ExaPOO17a\Src\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.exe.config
