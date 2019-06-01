@@ -6,6 +6,7 @@
         /// Variable nécessaire au concepteur.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
+        private cit [] tabcit;
 
         /// <summary>
         /// Nettoyage des ressources utilisées.
@@ -64,42 +65,51 @@
             this.groupBox_intro.Controls.Add(this.label_dim1);
             this.groupBox_intro.Controls.Add(this.label_carb);
             this.groupBox_intro.Controls.Add(this.comboBox_typcarb);
-            this.groupBox_intro.Location = new System.Drawing.Point(252, 9);
+            this.groupBox_intro.Enabled = false;
+            this.groupBox_intro.Location = new System.Drawing.Point(267, 12);
             this.groupBox_intro.Name = "groupBox_intro";
             this.groupBox_intro.Size = new System.Drawing.Size(315, 141);
-            this.groupBox_intro.TabIndex = 0;
+            this.groupBox_intro.TabIndex = 10;
             this.groupBox_intro.TabStop = false;
             this.groupBox_intro.Text = "Nouvelle citerne";
             // 
             // button_val
             // 
+            this.button_val.Enabled = false;
             this.button_val.Location = new System.Drawing.Point(234, 107);
             this.button_val.Name = "button_val";
             this.button_val.Size = new System.Drawing.Size(75, 23);
-            this.button_val.TabIndex = 3;
+            this.button_val.TabIndex = 35;
             this.button_val.Text = "Valider";
             this.button_val.UseVisualStyleBackColor = true;
+            this.button_val.Click += new System.EventHandler(this.button_val_Click);
             // 
             // textBox_dim3
             // 
             this.textBox_dim3.Location = new System.Drawing.Point(103, 109);
             this.textBox_dim3.Name = "textBox_dim3";
             this.textBox_dim3.Size = new System.Drawing.Size(100, 20);
-            this.textBox_dim3.TabIndex = 3;
+            this.textBox_dim3.TabIndex = 30;
+            this.textBox_dim3.Visible = false;
+            this.textBox_dim3.TextChanged += new System.EventHandler(this.textBox_dim1_TextChanged);
             // 
             // textBox_dim2
             // 
             this.textBox_dim2.Location = new System.Drawing.Point(103, 80);
             this.textBox_dim2.Name = "textBox_dim2";
             this.textBox_dim2.Size = new System.Drawing.Size(100, 20);
-            this.textBox_dim2.TabIndex = 3;
+            this.textBox_dim2.TabIndex = 25;
+            this.textBox_dim2.Visible = false;
+            this.textBox_dim2.TextChanged += new System.EventHandler(this.textBox_dim1_TextChanged);
             // 
             // textBox_dim1
             // 
             this.textBox_dim1.Location = new System.Drawing.Point(103, 52);
             this.textBox_dim1.Name = "textBox_dim1";
             this.textBox_dim1.Size = new System.Drawing.Size(100, 20);
-            this.textBox_dim1.TabIndex = 3;
+            this.textBox_dim1.TabIndex = 20;
+            this.textBox_dim1.Visible = false;
+            this.textBox_dim1.TextChanged += new System.EventHandler(this.textBox_dim1_TextChanged);
             // 
             // label_dim3
             // 
@@ -109,6 +119,7 @@
             this.label_dim3.Size = new System.Drawing.Size(31, 13);
             this.label_dim3.TabIndex = 3;
             this.label_dim3.Text = "Dim3";
+            this.label_dim3.Visible = false;
             // 
             // label_dim2
             // 
@@ -118,6 +129,7 @@
             this.label_dim2.Size = new System.Drawing.Size(31, 13);
             this.label_dim2.TabIndex = 3;
             this.label_dim2.Text = "Dim2";
+            this.label_dim2.Visible = false;
             // 
             // label_dim1
             // 
@@ -127,6 +139,7 @@
             this.label_dim1.Size = new System.Drawing.Size(31, 13);
             this.label_dim1.TabIndex = 3;
             this.label_dim1.Text = "Dim1";
+            this.label_dim1.Visible = false;
             // 
             // label_carb
             // 
@@ -140,18 +153,27 @@
             // comboBox_typcarb
             // 
             this.comboBox_typcarb.FormattingEnabled = true;
+            this.comboBox_typcarb.Items.AddRange(new object[] {
+            "Essence",
+            "Diesel"});
             this.comboBox_typcarb.Location = new System.Drawing.Point(103, 25);
             this.comboBox_typcarb.Name = "comboBox_typcarb";
             this.comboBox_typcarb.Size = new System.Drawing.Size(121, 21);
-            this.comboBox_typcarb.TabIndex = 1;
+            this.comboBox_typcarb.TabIndex = 15;
+            this.comboBox_typcarb.SelectedIndexChanged += new System.EventHandler(this.textBox_dim1_TextChanged);
             // 
             // comboBox_typcit
             // 
             this.comboBox_typcit.FormattingEnabled = true;
+            this.comboBox_typcit.Items.AddRange(new object[] {
+            "Cubique",
+            "Cylindrique",
+            "Paralélépipèdique"});
             this.comboBox_typcit.Location = new System.Drawing.Point(99, 16);
             this.comboBox_typcit.Name = "comboBox_typcit";
             this.comboBox_typcit.Size = new System.Drawing.Size(121, 21);
             this.comboBox_typcit.TabIndex = 1;
+            this.comboBox_typcit.SelectedIndexChanged += new System.EventHandler(this.comboBox_typcit_SelectedIndexChanged);
             // 
             // label_typcit
             // 
@@ -164,24 +186,31 @@
             // 
             // button_ValTypCit
             // 
+            this.button_ValTypCit.Enabled = false;
             this.button_ValTypCit.Location = new System.Drawing.Point(145, 54);
             this.button_ValTypCit.Name = "button_ValTypCit";
             this.button_ValTypCit.Size = new System.Drawing.Size(75, 23);
-            this.button_ValTypCit.TabIndex = 2;
+            this.button_ValTypCit.TabIndex = 5;
             this.button_ValTypCit.Text = "Créer";
             this.button_ValTypCit.UseVisualStyleBackColor = true;
+            this.button_ValTypCit.Click += new System.EventHandler(this.button_ValTypCit_Click);
             // 
             // button_quit
             // 
             this.button_quit.Location = new System.Drawing.Point(15, 54);
             this.button_quit.Name = "button_quit";
             this.button_quit.Size = new System.Drawing.Size(75, 23);
-            this.button_quit.TabIndex = 3;
+            this.button_quit.TabIndex = 40;
             this.button_quit.Text = "Quitter";
             this.button_quit.UseVisualStyleBackColor = true;
+            this.button_quit.Click += new System.EventHandler(this.button_quit_Click);
             // 
             // dataGridView_recap
             // 
+            this.dataGridView_recap.AllowUserToAddRows = false;
+            this.dataGridView_recap.AllowUserToDeleteRows = false;
+            this.dataGridView_recap.AllowUserToResizeColumns = false;
+            this.dataGridView_recap.AllowUserToResizeRows = false;
             this.dataGridView_recap.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView_recap.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.typcit,
@@ -194,6 +223,7 @@
             this.dataGridView_recap.Name = "dataGridView_recap";
             this.dataGridView_recap.Size = new System.Drawing.Size(642, 248);
             this.dataGridView_recap.TabIndex = 4;
+            this.dataGridView_recap.TabStop = false;
             // 
             // typcit
             // 

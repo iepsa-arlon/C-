@@ -1,2 +1,20 @@
 C:\Users\ofries\Desktop\ExaPOO17a\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.exe.config
 C:\Users\ofries\Desktop\ExaPOO17a\Src\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.exe.config
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.exe.config
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.csprojResolveAssemblyReference.cache
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.Form1.resources
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.Properties.Resources.resources
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.csproj.GenerateResource.Cache
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.exe
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.pdb
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.exe
+C:\Users\ofries\Desktop\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.pdb
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.exe.config
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.exe
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.pdb
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.exe
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\bin\Debug\ExaPOOCs17a.pdb
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.csprojResolveAssemblyReference.cache
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.Form1.resources
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.Properties.Resources.resources
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO17a\ExaPOO17a\Solu\ExaPOOCs17a\ExaPOOCs17a\obj\Debug\ExaPOOCs17a.csproj.GenerateResource.Cache
