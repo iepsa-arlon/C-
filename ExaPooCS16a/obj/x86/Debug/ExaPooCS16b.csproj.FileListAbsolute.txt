@@ -6,22 +6,24 @@ C:\Users\Principal\Desktop\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\
 C:\Users\Principal\Desktop\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Properties.Resources.resources
 C:\Users\Principal\Desktop\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Principal\Desktop\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.exe
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.pdb
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Form_princ.resources
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Form_recap.resources
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Properties.Resources.resources
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.exe
-C:\Users\Principal\Desktop\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.pdb
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.exe
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.pdb
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.exe
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.pdb
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16b.csprojResolveAssemblyReference.cache
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Form_princ.resources
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Form_recap.resources
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Properties.Resources.resources
-C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Src\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16b.csproj.GenerateResource.Cache
+C:\Users\Principal\Desktop\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.exe
+C:\Users\Principal\Desktop\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.pdb
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.exe
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.pdb
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.exe
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.pdb
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Form_princ.resources
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Form_recap.resources
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Properties.Resources.resources
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\ProSoc\PROG\ExaSrcPoo\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.exe
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.pdb
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.exe
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\bin\Debug\ExaPooCS16a.pdb
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16b.csprojResolveAssemblyReference.cache
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Form_princ.resources
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Form_recap.resources
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16a.Properties.Resources.resources
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO16b\ExaPOO16b\Solu\ExaPooCS16b\ExaPooCS16a\obj\x86\Debug\ExaPooCS16b.csproj.GenerateResource.Cache

@@ -4,7 +4,9 @@
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
-        
+        tract inter_tract;        // tracteur d'interface
+        atlg inter_atlg;     // attelage d'interface
+        coop cooper;                      // coopérative d'interface unique à prendre ne charge
 
 
         /// </summary>
@@ -74,6 +76,7 @@
             this.button_val.TabIndex = 20;
             this.button_val.Text = "Valider";
             this.button_val.UseVisualStyleBackColor = true;
+            this.button_val.Click += new System.EventHandler(this.button_val_Click);
             // 
             // label_nbouvr
             // 
@@ -134,6 +137,7 @@
             this.button_aj.TabIndex = 80;
             this.button_aj.Text = "Ajouter";
             this.button_aj.UseVisualStyleBackColor = true;
+            this.button_aj.Click += new System.EventHandler(this.button_aj_Click);
             // 
             // checkBox_freins
             // 
@@ -200,6 +204,7 @@
             this.comboBox_catmat.Name = "comboBox_catmat";
             this.comboBox_catmat.Size = new System.Drawing.Size(150, 21);
             this.comboBox_catmat.TabIndex = 50;
+            this.comboBox_catmat.SelectedIndexChanged += new System.EventHandler(this.comboBox_catmat_SelectedIndexChanged);
             // 
             // button_recap
             // 
@@ -210,6 +215,7 @@
             this.button_recap.TabStop = false;
             this.button_recap.Text = "Recapitulatif";
             this.button_recap.UseVisualStyleBackColor = true;
+            this.button_recap.Click += new System.EventHandler(this.button_recap_Click);
             // 
             // button_quit
             // 
@@ -220,6 +226,7 @@
             this.button_quit.TabStop = false;
             this.button_quit.Text = "Quitter";
             this.button_quit.UseVisualStyleBackColor = true;
+            this.button_quit.Click += new System.EventHandler(this.button_quit_Click);
             // 
             // Form_princ
             // 
