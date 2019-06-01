@@ -1,0 +1,17 @@
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.Form_princ.resources
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.Properties.Resources.resources
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\bin\Debug\ExaCs15a.exe
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\bin\Debug\ExaCs15a.pdb
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.exe
+C:\Users\Principal\Desktop\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.pdb
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO15a\ExaPOO15a\Solu\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.exe
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO15a\ExaPOO15a\Solu\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.pdb
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO15a\ExaPOO15a\Solu\ExaCs15a\ExaCs15a\bin\Debug\ExaCs15a.exe
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO15a\ExaPOO15a\Solu\ExaCs15a\ExaCs15a\bin\Debug\ExaCs15a.pdb
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO15a\ExaPOO15a\Solu\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.csprojResolveAssemblyReference.cache
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO15a\ExaPOO15a\Solu\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.Form_princ.resources
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO15a\ExaPOO15a\Solu\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.Properties.Resources.resources
+C:\Users\benoit\Downloads\Examens précédents-20190601\ExaPOO15a\ExaPOO15a\Solu\ExaCs15a\ExaCs15a\obj\x86\Debug\ExaCs15a.csproj.GenerateResource.Cache
