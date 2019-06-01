@@ -1,0 +1,17 @@
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\bin\Debug\ExaCs13a.exe
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\bin\Debug\ExaCs13a.pdb
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.Form1.resources
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.Properties.Resources.resources
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.exe
+C:\Users\Principal\Desktop\POO\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.pdb
+C:\Users\benoit\Downloads\POO\Examens précédents-20190524\ExaPOO13a\ExaPOO13a\Src\Cs\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.exe
+C:\Users\benoit\Downloads\POO\Examens précédents-20190524\ExaPOO13a\ExaPOO13a\Src\Cs\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.pdb
+C:\Users\benoit\Downloads\POO\Examens précédents-20190524\ExaPOO13a\ExaPOO13a\Src\Cs\ExaCs13a\ExaCs13a\bin\Debug\ExaCs13a.exe
+C:\Users\benoit\Downloads\POO\Examens précédents-20190524\ExaPOO13a\ExaPOO13a\Src\Cs\ExaCs13a\ExaCs13a\bin\Debug\ExaCs13a.pdb
+C:\Users\benoit\Downloads\POO\Examens précédents-20190524\ExaPOO13a\ExaPOO13a\Src\Cs\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.csprojResolveAssemblyReference.cache
+C:\Users\benoit\Downloads\POO\Examens précédents-20190524\ExaPOO13a\ExaPOO13a\Src\Cs\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.Form1.resources
+C:\Users\benoit\Downloads\POO\Examens précédents-20190524\ExaPOO13a\ExaPOO13a\Src\Cs\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.Properties.Resources.resources
+C:\Users\benoit\Downloads\POO\Examens précédents-20190524\ExaPOO13a\ExaPOO13a\Src\Cs\ExaCs13a\ExaCs13a\obj\x86\Debug\ExaCs13a.csproj.GenerateResource.Cache
